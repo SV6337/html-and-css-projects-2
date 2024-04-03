@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    
+}
+
+header{
+    background-color: #fc30fc;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    background-color: yellow;
+    text-align: center;
+
+}
+
+nav ul{
+    list-style-type: none;
+    padding: o;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+#main-section{
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+}
+
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    font-size: 0.8rem;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+h3{
+    font-size: 1rem;
+}
+p{
+    font-size: 0.8rem;
+}
+
+#services{
+     background-color: #fff;
+     border-radius: 10px;
+     padding: 15px;
+     margin-bottom: 20px;
+}
+
+#reviews{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+#pricing{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+button{
+    color: black;
+}
